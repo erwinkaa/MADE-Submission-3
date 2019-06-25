@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MADE Submission 3</string>
+    <string name="setting">Setting</string>
+    <string name="bottom_menu_movies">Movies</string>
+    <string name="bottom_menu_tvshow">TV Show</string>
+
+    <string name="releasedate">Release Date</string>
+    <string name="runningtime">Running Time</string>
+    <string name="productioncompanies">Production Companies</string>
+    <string name="description">Overview</string>
+    <string name="detailfilm">Detail Film</string>
+</resources>

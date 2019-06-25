@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/movies"
+            android:enabled="true"
+            android:title="@string/bottom_menu_movies"
+            android:icon="@drawable/movie"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/tvshows"
+            android:enabled="true"
+            android:title="@string/bottom_menu_tvshow"
+            android:icon="@drawable/film"
+            app:showAsAction="ifRoom"/>
+</menu>
